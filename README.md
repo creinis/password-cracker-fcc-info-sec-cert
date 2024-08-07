@@ -3,7 +3,7 @@
 ###### Technologies:
 <p align="center">
 <img src="https://img.icons8.com/color/75/000000/python.png" width="75" height="75" alt="Python" style="margin: 10px 15px 0 15px;" />
-<img src="https://ioflood.com/blog/wp-content/uploads/2023/09/Data-stream-converting-to-hash-Python-hashlib-code-snippets-Python-logo.jpg" width="125" height="75" alt="Python" style="margin: 10px 15px 0 15px;" />
+<img src="https://ioflood.com/blog/wp-content/uploads/2023/09/Data-stream-converting-to-hash-Python-hashlib-code-snippets-Python-logo.jpg" width="125" height="125" alt="Python" style="margin: 10px 15px 0 15px;" />
 </p>
 
 ### Try it!
